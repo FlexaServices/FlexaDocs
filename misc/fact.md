@@ -1,3 +1,9 @@
+---
+description: Sends a random fact
+---
+
 # Fact
 
-When executing the /fact command it will return an embed back to the channel and send a random fact.
+When typing in the command called /fact it will send a random Fact. 
+
+<mark style="color:red;">This command is currently disabled.</mark>

@@ -6,7 +6,7 @@ description: >-
 
 # Welcome to Flexa Docs
 
-<mark style="color:purple;">**Undergoing major re-write**</mark>
+# <mark style="color:purple;">**Undergoing major re-write**</mark>
 
 <mark style="color:yellow;">**Why am I blacklisted?**</mark>
 

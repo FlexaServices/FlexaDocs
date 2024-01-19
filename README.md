@@ -6,6 +6,8 @@ description: >-
 
 # Welcome to Flexa Docs
 
+<mark style="color:purple;">**Undergoing major re-write**</mark>
+
 <mark style="color:yellow;">**Why am I blacklisted?**</mark>
 
 There are quite a few factors as to why you got blacklisted from Flexa? A main competing factor to get blacklisted from Flexas services is for abusing our commands. Another factor is for trolling and getting reported for mass trolling/spamming of the commands. That may fall under abusing under your terms but at Flexa it is a different factor.
